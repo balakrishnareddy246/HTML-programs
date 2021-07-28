@@ -1,0 +1,30 @@
+wget 10.20.30.40/filename.html
+Df -h 
+Free -m
+ps -aux
+Htop
+ telnet ip 
+ 3306
+
+
+docker run -d ---name sqlplus  -p  1532:8080 sqlplus
+
+dodocker run -d -v /var/lib/docker:/home/docker --name sqlplus --link db:db -p 1522: 
+
+
+
+
+  pipeline {
+    agent any 
+stages {
+   stage ('build')
+
+  build_steps:
+- name: code compliler
+
+source: " ,"
+image:
+commands:
+
+
+

@@ -1,0 +1,33 @@
+From B.Saravanan to Everyone:  08:23 AM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Inline-Block</title>
+    <style> 
+        nav {
+            background-color: #ffefab;
+            list-style-type: none;
+        }
+        nav li {
+            display: inline-block;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+1) https://www.caniuse.com
+2) ! click enter that will girves the all the elemetm tags 
+3) https://www.caniuse.com
+4) https://html-css-js.com/css/generator/gradient/
